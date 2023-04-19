@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "LSPDFRManager (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "LSPDFRManager (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
